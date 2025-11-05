@@ -1,0 +1,39 @@
+:root,
+[data-bs-theme="light"] {
+  --accent: #0052cc;
+  --surface: #ffffff;
+  --text-primary: #212529;
+}
+
+[data-bs-theme="dark"] {
+  --accent: #4c8cff;
+  --surface: #1c1f26;
+  --text-primary: #e4e6eb;
+}
+
+body {
+  background-color: var(--surface);
+  color: var(--text-primary);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.text-accent {
+  color: var(--accent) !important;
+}
+
+.btn-accent {
+  background-color: var(--accent);
+  border: none;
+}
+
+.btn-accent:hover {
+  filter: brightness(1.1);
+}
+
+.bg-surface {
+  background-color: var(--surface) !important;
+}
+
+.card {
+  border-radius: 0.8rem;
+}

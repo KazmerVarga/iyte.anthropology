@@ -1,0 +1,1175 @@
+[
+  {
+    "chapter": "1. The Study of Humanity",
+    "questions": [
+      {
+        "text": "Which of the following is NOT one of the four main subfields of anthropology?",
+        "type": "multiple",
+        "options": [
+          { "text": "Cultural Anthropology", "value": "0" },
+          { "text": "Archaeology", "value": "0" },
+          { "text": "Astroanthropology", "value": "1" },
+          { "text": "Biological Anthropology", "value": "0" }
+        ],
+        "correct": ["Astroanthropology"]
+      },
+      {
+        "text": "Anthropology studies only modern human societies.",
+        "type": "truefalse",
+        "answer": "false"
+      },
+      {
+        "text": "What does cultural anthropology primarily study?",
+        "type": "multiple",
+        "options": [
+          { "text": "Human societies and cultural practices", "value": "1" },
+          { "text": "Human fossils and skeletal remains", "value": "0" },
+          { "text": "Language structure and syntax", "value": "0" },
+          { "text": "Ancient civilizations’ ruins", "value": "0" }
+        ],
+        "correct": ["Human societies and cultural practices"]
+      },
+      {
+        "text": "Archaeology investigates material remains to reconstruct past human behavior.",
+        "type": "truefalse",
+        "answer": "true"
+      },
+      {
+        "text": "Which subfield of anthropology focuses on the biological aspects of humans and their relatives?",
+        "type": "multiple",
+        "options": [
+          { "text": "Cultural Anthropology", "value": "0" },
+          { "text": "Linguistic Anthropology", "value": "0" },
+          { "text": "Biological Anthropology", "value": "1" },
+          { "text": "Ethnology", "value": "0" }
+        ],
+        "correct": ["Biological Anthropology"]
+      },
+      {
+        "text": "Linguistic anthropology studies how language influences social life.",
+        "type": "truefalse",
+        "answer": "true"
+      },
+      {
+        "text": "Which of these best describes the holistic approach in anthropology?",
+        "type": "multiple",
+        "options": [
+          { "text": "Studying human biology only", "value": "0" },
+          { "text": "Examining all aspects of humanity across time and space", "value": "1" },
+          { "text": "Focusing on ancient fossils exclusively", "value": "0" },
+          { "text": "Comparing only Western societies", "value": "0" }
+        ],
+        "correct": ["Examining all aspects of humanity across time and space"]
+      },
+      {
+        "text": "Ethnography refers to the comparative study of human societies.",
+        "type": "truefalse",
+        "answer": "false"
+      },
+      {
+        "text": "Which subfield involves studying extinct human species through fossils?",
+        "type": "multiple",
+        "options": [
+          { "text": "Biological Anthropology", "value": "1" },
+          { "text": "Cultural Anthropology", "value": "0" },
+          { "text": "Ethnology", "value": "0" },
+          { "text": "Sociology", "value": "0" }
+        ],
+        "correct": ["Biological Anthropology"]
+      },
+      {
+        "text": "Ethnology uses cross-cultural comparison to identify patterns in human behavior.",
+        "type": "truefalse",
+        "answer": "true"
+      }
+    ]
+  },
+  {
+    "chapter": "2. Culture and Communication",
+    "questions": [
+      {
+        "text": "Culture is learned, shared, and symbolic.",
+        "type": "truefalse",
+        "answer": "true"
+      },
+      {
+        "text": "Which of the following is NOT a characteristic of culture?",
+        "type": "multiple",
+        "options": [
+          { "text": "It is biologically inherited.", "value": "1" },
+          { "text": "It is learned.", "value": "0" },
+          { "text": "It is shared.", "value": "0" },
+          { "text": "It is symbolic.", "value": "0" }
+        ],
+        "correct": ["It is biologically inherited."]
+      },
+      {
+        "text": "Language allows humans to transmit culture across generations.",
+        "type": "truefalse",
+        "answer": "true"
+      },
+      {
+        "text": "Enculturation is the process by which people learn their culture.",
+        "type": "truefalse",
+        "answer": "true"
+      },
+      {
+        "text": "Which statement best defines cultural relativism?",
+        "type": "multiple",
+        "options": [
+          { "text": "Judging cultures by your own standards", "value": "0" },
+          { "text": "Viewing a culture in the context of its own values and norms", "value": "1" },
+          { "text": "Believing all cultures are identical", "value": "0" },
+          { "text": "Ranking cultures by advancement", "value": "0" }
+        ],
+        "correct": ["Viewing a culture in the context of its own values and norms"]
+      },
+      {
+        "text": "Ethnocentrism is the belief that one’s own culture is superior to others.",
+        "type": "truefalse",
+        "answer": "true"
+      },
+      {
+        "text": "What do anthropologists mean by symbols?",
+        "type": "multiple",
+        "options": [
+          { "text": "Arbitrary signs that represent something else in a culture", "value": "1" },
+          { "text": "Biological traits shared by all humans", "value": "0" },
+          { "text": "Direct physical representations of reality", "value": "0" },
+          { "text": "Religious relics only", "value": "0" }
+        ],
+        "correct": ["Arbitrary signs that represent something else in a culture"]
+      },
+      {
+        "text": "All aspects of culture are consciously learned through formal teaching.",
+        "type": "truefalse",
+        "answer": "false"
+      },
+      {
+        "text": "Which of the following is an example of nonverbal communication?",
+        "type": "multiple",
+        "options": [
+          { "text": "Facial expressions", "value": "1" },
+          { "text": "Written text", "value": "0" },
+          { "text": "Spoken words", "value": "0" },
+          { "text": "Radio broadcasts", "value": "0" }
+        ],
+        "correct": ["Facial expressions"]
+      },
+      {
+        "text": "Cultural change can occur through diffusion, invention, and globalization.",
+        "type": "truefalse",
+        "answer": "true"
+      }
+    ]
+  },
+  {
+    "chapter": "3. Human Evolution",
+    "questions": [
+      {
+        "text": "Evolution explains how species change over time through genetic variation and natural selection.",
+        "type": "truefalse",
+        "answer": "true"
+      },
+      {
+        "text": "Who proposed the theory of natural selection?",
+        "type": "multiple",
+        "options": [
+          { "text": "Gregor Mendel", "value": "0" },
+          { "text": "Charles Darwin", "value": "1" },
+          { "text": "Jean-Baptiste Lamarck", "value": "0" },
+          { "text": "Louis Leakey", "value": "0" }
+        ],
+        "correct": ["Charles Darwin"]
+      },
+      {
+        "text": "Fossils are the only evidence used to study human evolution.",
+        "type": "truefalse",
+        "answer": "false"
+      },
+      {
+        "text": "Which genus includes the earliest known members of the human lineage?",
+        "type": "multiple",
+        "options": [
+          { "text": "Australopithecus", "value": "1" },
+          { "text": "Homo", "value": "0" },
+          { "text": "Pan", "value": "0" },
+          { "text": "Neanderthalensis", "value": "0" }
+        ],
+        "correct": ["Australopithecus"]
+      },
+      {
+        "text": "The ‘Out of Africa’ model suggests that modern humans evolved in multiple regions independently.",
+        "type": "truefalse",
+        "answer": "false"
+      },
+      {
+        "text": "What does bipedalism refer to?",
+        "type": "multiple",
+        "options": [
+          { "text": "Walking primarily on two legs", "value": "1" },
+          { "text": "Using tools for hunting", "value": "0" },
+          { "text": "Living in social groups", "value": "0" },
+          { "text": "Having larger brains", "value": "0" }
+        ],
+        "correct": ["Walking primarily on two legs"]
+      },
+      {
+        "text": "Neanderthals lived exclusively in Africa.",
+        "type": "truefalse",
+        "answer": "false"
+      },
+      {
+        "text": "Which species is considered the direct ancestor of modern humans?",
+        "type": "multiple",
+        "options": [
+          { "text": "Homo habilis", "value": "0" },
+          { "text": "Homo erectus", "value": "1" },
+          { "text": "Australopithecus afarensis", "value": "0" },
+          { "text": "Homo floresiensis", "value": "0" }
+        ],
+        "correct": ["Homo erectus"]
+      },
+      {
+        "text": "The discovery of ‘Lucy’ provided key evidence for early bipedalism.",
+        "type": "truefalse",
+        "answer": "true"
+      },
+      {
+        "text": "Which of the following is an evolutionary advantage of bipedalism?",
+        "type": "multiple",
+        "options": [
+          { "text": "Ability to see over tall grass", "value": "1" },
+          { "text": "Faster climbing ability", "value": "0" },
+          { "text": "Stronger arms", "value": "0" },
+          { "text": "Reduced energy efficiency", "value": "0" }
+        ],
+        "correct": ["Ability to see over tall grass"]
+      }
+    ]
+  },
+  {
+    "chapter": "4. Human Variation and Adaptation",
+    "questions": [
+      {
+        "text": "Human biological variation is the result of both genetic and environmental factors.",
+        "type": "truefalse",
+        "answer": "true"
+      },
+      {
+        "text": "Skin color variation in humans is primarily an adaptation to differing levels of ultraviolet radiation.",
+        "type": "truefalse",
+        "answer": "true"
+      },
+      {
+        "text": "Which of the following is NOT an example of a human adaptation?",
+        "type": "multiple",
+        "options": [
+          { "text": "Lactose tolerance in adulthood", "value": "0" },
+          { "text": "High-altitude lung capacity", "value": "0" },
+          { "text": "Eye color differences", "value": "1" },
+          { "text": "Dark skin pigmentation", "value": "0" }
+        ],
+        "correct": ["Eye color differences"]
+      },
+      {
+        "text": "Race is a biologically valid way to classify human populations.",
+        "type": "truefalse",
+        "answer": "false"
+      },
+      {
+        "text": "What does the term 'acclimatization' mean?",
+        "type": "multiple",
+        "options": [
+          { "text": "Short-term physiological response to environmental change", "value": "1" },
+          { "text": "Genetic change over generations", "value": "0" },
+          { "text": "Cultural adaptation", "value": "0" },
+          { "text": "Artificial selection", "value": "0" }
+        ],
+        "correct": ["Short-term physiological response to environmental change"]
+      },
+      {
+        "text": "People living at high altitudes have evolved larger lungs and higher red blood cell counts.",
+        "type": "truefalse",
+        "answer": "true"
+      },
+      {
+        "text": "Which vitamin deficiency is linked to low UV exposure and lighter skin pigmentation?",
+        "type": "multiple",
+        "options": [
+          { "text": "Vitamin D", "value": "1" },
+          { "text": "Vitamin C", "value": "0" },
+          { "text": "Vitamin B12", "value": "0" },
+          { "text": "Vitamin A", "value": "0" }
+        ],
+        "correct": ["Vitamin D"]
+      },
+      {
+        "text": "The concept of race has more cultural than biological meaning.",
+        "type": "truefalse",
+        "answer": "true"
+      },
+      {
+        "text": "Which of these best describes genetic adaptation?",
+        "type": "multiple",
+        "options": [
+          { "text": "Changes passed through genes that improve survival in specific environments", "value": "1" },
+          { "text": "Learning cultural behaviors", "value": "0" },
+          { "text": "Temporary acclimatization", "value": "0" },
+          { "text": "Technological innovation", "value": "0" }
+        ],
+        "correct": ["Changes passed through genes that improve survival in specific environments"]
+      },
+      {
+        "text": "Human populations show clinal variation rather than distinct racial boundaries.",
+        "type": "truefalse",
+        "answer": "true"
+      }
+    ]
+  },
+  {
+  "chapter": "5. Primates and Primate Behavior",
+  "questions": [
+    {
+      "text": "Primates are mammals that share a suite of characteristics related to life in trees.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following is NOT a characteristic common to most primates?",
+      "type": "multiple",
+      "options": [
+        { "text": "Opposable thumbs", "value": "0" },
+        { "text": "Binocular vision", "value": "0" },
+        { "text": "Highly specialized diet", "value": "1" },
+        { "text": "Large brain relative to body size", "value": "0" }
+      ],
+      "correct": ["Highly specialized diet"]
+    },
+    {
+      "text": "Most primates give birth to multiple offspring at a time.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "Which group includes humans, apes, monkeys, and prosimians?",
+      "type": "multiple",
+      "options": [
+        { "text": "Primates", "value": "1" },
+        { "text": "Carnivores", "value": "0" },
+        { "text": "Rodents", "value": "0" },
+        { "text": "Marsupials", "value": "0" }
+      ],
+      "correct": ["Primates"]
+    },
+    {
+      "text": "Chimpanzees have been observed using tools in the wild.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of these primates is the most closely related to humans genetically?",
+      "type": "multiple",
+      "options": [
+        { "text": "Chimpanzee", "value": "1" },
+        { "text": "Gorilla", "value": "0" },
+        { "text": "Orangutan", "value": "0" },
+        { "text": "Gibbon", "value": "0" }
+      ],
+      "correct": ["Chimpanzee"]
+    },
+    {
+      "text": "Most primates rely more on smell than vision.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "Which of the following best describes a dominance hierarchy in primate groups?",
+      "type": "multiple",
+      "options": [
+        { "text": "A ranking system that influences access to resources and mates", "value": "1" },
+        { "text": "A system of equal power among all members", "value": "0" },
+        { "text": "An alphabetical order of species", "value": "0" },
+        { "text": "A genetic hierarchy of intelligence", "value": "0" }
+      ],
+      "correct": ["A ranking system that influences access to resources and mates"]
+    },
+    {
+      "text": "Primate social behaviors include grooming, play, and cooperation.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which primate is known for its complex vocal communication and tight social bonds?",
+      "type": "multiple",
+      "options": [
+        { "text": "Bonobo", "value": "1" },
+        { "text": "Lemur", "value": "0" },
+        { "text": "Macaque", "value": "0" },
+        { "text": "Tarsier", "value": "0" }
+      ],
+      "correct": ["Bonobo"]
+    }
+  ]
+},
+{
+  "chapter": "6. The Origins of Food Production and Settled Life",
+  "questions": [
+    {
+      "text": "The Neolithic Revolution refers to the shift from hunting and gathering to agriculture.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following is NOT considered a major consequence of the development of agriculture?",
+      "type": "multiple",
+      "options": [
+        { "text": "Population growth", "value": "0" },
+        { "text": "Permanent settlements", "value": "0" },
+        { "text": "Decreased food production", "value": "1" },
+        { "text": "Social stratification", "value": "0" }
+      ],
+      "correct": ["Decreased food production"]
+    },
+    {
+      "text": "Domestication involves genetic changes in plants or animals resulting from human selection.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which region is often referred to as the 'Fertile Crescent' where agriculture first developed?",
+      "type": "multiple",
+      "options": [
+        { "text": "Middle East", "value": "1" },
+        { "text": "Mesoamerica", "value": "0" },
+        { "text": "East Asia", "value": "0" },
+        { "text": "Sub-Saharan Africa", "value": "0" }
+      ],
+      "correct": ["Middle East"]
+    },
+    {
+      "text": "Early farmers had more leisure time and better nutrition than hunter-gatherers.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "Which of these was an early domesticated animal used for meat and labor?",
+      "type": "multiple",
+      "options": [
+        { "text": "Cattle", "value": "1" },
+        { "text": "Wolf", "value": "0" },
+        { "text": "Elephant", "value": "0" },
+        { "text": "Cat", "value": "0" }
+      ],
+      "correct": ["Cattle"]
+    },
+    {
+      "text": "Sedentism refers to a lifestyle based on permanent settlements.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following was a likely reason for the adoption of agriculture?",
+      "type": "multiple",
+      "options": [
+        { "text": "Climate change at the end of the Ice Age", "value": "1" },
+        { "text": "Increased interest in technology", "value": "0" },
+        { "text": "Religious ceremonies", "value": "0" },
+        { "text": "Lack of wild animals", "value": "0" }
+      ],
+      "correct": ["Climate change at the end of the Ice Age"]
+    },
+    {
+      "text": "Agriculture led to the rise of cities and social hierarchies.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which plant was one of the earliest domesticated crops in Mesoamerica?",
+      "type": "multiple",
+      "options": [
+        { "text": "Maize (corn)", "value": "1" },
+        { "text": "Wheat", "value": "0" },
+        { "text": "Rice", "value": "0" },
+        { "text": "Barley", "value": "0" }
+      ],
+      "correct": ["Maize (corn)"]
+    }
+  ]
+},
+{
+  "chapter": "7. Economic Systems",
+  "questions": [
+    {
+      "text": "Economic anthropology studies how societies produce, distribute, and consume goods and services.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following is an example of reciprocity?",
+      "type": "multiple",
+      "options": [
+        { "text": "Trading gifts between friends", "value": "1" },
+        { "text": "Paying taxes to the government", "value": "0" },
+        { "text": "Buying stock in a company", "value": "0" },
+        { "text": "Working for wages", "value": "0" }
+      ],
+      "correct": ["Trading gifts between friends"]
+    },
+    {
+      "text": "Market exchange always requires the use of money.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "Which form of economic exchange is most common in foraging societies?",
+      "type": "multiple",
+      "options": [
+        { "text": "Generalized reciprocity", "value": "1" },
+        { "text": "Redistribution", "value": "0" },
+        { "text": "Market exchange", "value": "0" },
+        { "text": "Industrial production", "value": "0" }
+      ],
+      "correct": ["Generalized reciprocity"]
+    },
+    {
+      "text": "Redistribution involves goods collected by a central authority and then reallocated.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of these best describes the Kula ring of the Trobriand Islanders?",
+      "type": "multiple",
+      "options": [
+        { "text": "A ceremonial exchange system of shell valuables", "value": "1" },
+        { "text": "A market for agricultural goods", "value": "0" },
+        { "text": "A form of taxation", "value": "0" },
+        { "text": "A kinship-based inheritance rule", "value": "0" }
+      ],
+      "correct": ["A ceremonial exchange system of shell valuables"]
+    },
+    {
+      "text": "Industrialized economies rely mainly on kinship for labor organization.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "Which term describes goods and services that are produced for personal use rather than exchange?",
+      "type": "multiple",
+      "options": [
+        { "text": "Subsistence production", "value": "1" },
+        { "text": "Commercial trade", "value": "0" },
+        { "text": "Redistribution", "value": "0" },
+        { "text": "Reciprocal economy", "value": "0" }
+      ],
+      "correct": ["Subsistence production"]
+    },
+    {
+      "text": "Barter exchange is the direct trade of goods or services without money.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following is an example of redistribution in modern society?",
+      "type": "multiple",
+      "options": [
+        { "text": "Government welfare programs", "value": "1" },
+        { "text": "Private donations to a friend", "value": "0" },
+        { "text": "Online shopping", "value": "0" },
+        { "text": "Bartering at a market", "value": "0" }
+      ],
+      "correct": ["Government welfare programs"]
+    }
+  ]
+},
+{
+  "chapter": "8. Kinship and Descent",
+  "questions": [
+    {
+      "text": "Kinship systems organize relationships based on descent and marriage.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which term refers to tracing descent through the mother’s line?",
+      "type": "multiple",
+      "options": [
+        { "text": "Matrilineal", "value": "1" },
+        { "text": "Patrilineal", "value": "0" },
+        { "text": "Bilateral", "value": "0" },
+        { "text": "Avuncular", "value": "0" }
+      ],
+      "correct": ["Matrilineal"]
+    },
+    {
+      "text": "In patrilineal societies, inheritance is passed through the male line.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following best describes bilateral descent?",
+      "type": "multiple",
+      "options": [
+        { "text": "Descent traced equally through both parents", "value": "1" },
+        { "text": "Descent traced only through fathers", "value": "0" },
+        { "text": "Descent traced only through mothers", "value": "0" },
+        { "text": "Descent that skips a generation", "value": "0" }
+      ],
+      "correct": ["Descent traced equally through both parents"]
+    },
+    {
+      "text": "Kinship terms can reflect social roles and obligations, not just biological relations.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "What is an example of fictive kinship?",
+      "type": "multiple",
+      "options": [
+        { "text": "Godparents", "value": "1" },
+        { "text": "Siblings", "value": "0" },
+        { "text": "Cousins", "value": "0" },
+        { "text": "Parents", "value": "0" }
+      ],
+      "correct": ["Godparents"]
+    },
+    {
+      "text": "Exogamy means marrying within one’s own group.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "Which of these best defines a lineage?",
+      "type": "multiple",
+      "options": [
+        { "text": "A group that can trace its descent from a known ancestor", "value": "1" },
+        { "text": "A political alliance between families", "value": "0" },
+        { "text": "A class of unrelated individuals", "value": "0" },
+        { "text": "An economic partnership", "value": "0" }
+      ],
+      "correct": ["A group that can trace its descent from a known ancestor"]
+    },
+    {
+      "text": "Clan members can often trace their ancestry directly to a specific person.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "What does the term 'affinal kin' refer to?",
+      "type": "multiple",
+      "options": [
+        { "text": "Relatives by marriage", "value": "1" },
+        { "text": "Relatives by blood", "value": "0" },
+        { "text": "Spiritual ancestors", "value": "0" },
+        { "text": "Adopted kin", "value": "0" }
+      ],
+      "correct": ["Relatives by marriage"]
+    }
+  ]
+},
+{
+  "chapter": "9. Marriage and the Family",
+  "questions": [
+    {
+      "text": "Marriage is a socially recognized union that establishes rights and obligations between individuals and their kin groups.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which type of marriage involves one man married to multiple women?",
+      "type": "multiple",
+      "options": [
+        { "text": "Polygyny", "value": "1" },
+        { "text": "Polyandry", "value": "0" },
+        { "text": "Monogamy", "value": "0" },
+        { "text": "Group marriage", "value": "0" }
+      ],
+      "correct": ["Polygyny"]
+    },
+    {
+      "text": "Monogamy is the most common form of marriage globally.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "Which of the following describes levirate marriage?",
+      "type": "multiple",
+      "options": [
+        { "text": "A widow marries her deceased husband’s brother", "value": "1" },
+        { "text": "A man marries multiple sisters", "value": "0" },
+        { "text": "A woman marries multiple brothers", "value": "0" },
+        { "text": "A man marries outside his kin group", "value": "0" }
+      ],
+      "correct": ["A widow marries her deceased husband’s brother"]
+    },
+    {
+      "text": "Endogamy requires marrying outside one’s social group.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "Which of the following is a function of the family?",
+      "type": "multiple",
+      "options": [
+        { "text": "Reproduction and child-rearing", "value": "1" },
+        { "text": "Currency regulation", "value": "0" },
+        { "text": "Trade and taxation", "value": "0" },
+        { "text": "Language development", "value": "0" }
+      ],
+      "correct": ["Reproduction and child-rearing"]
+    },
+    {
+      "text": "Polyandry is a form of marriage in which a woman has multiple husbands.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which term refers to the residence pattern where a couple lives near or with the husband’s family?",
+      "type": "multiple",
+      "options": [
+        { "text": "Patrilocal", "value": "1" },
+        { "text": "Matrilocal", "value": "0" },
+        { "text": "Neolocal", "value": "0" },
+        { "text": "Avunculocal", "value": "0" }
+      ],
+      "correct": ["Patrilocal"]
+    },
+    {
+      "text": "Marriage alliances often serve to strengthen social and economic ties between families.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which type of family consists of parents and their dependent children?",
+      "type": "multiple",
+      "options": [
+        { "text": "Nuclear family", "value": "1" },
+        { "text": "Extended family", "value": "0" },
+        { "text": "Joint family", "value": "0" },
+        { "text": "Clan", "value": "0" }
+      ],
+      "correct": ["Nuclear family"]
+    }
+  ]
+},
+{
+  "chapter": "10. Political Organization and Social Control",
+  "questions": [
+    {
+      "text": "Political anthropology studies how societies organize power, authority, and law.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following is the simplest form of political organization?",
+      "type": "multiple",
+      "options": [
+        { "text": "Band", "value": "1" },
+        { "text": "Tribe", "value": "0" },
+        { "text": "Chiefdom", "value": "0" },
+        { "text": "State", "value": "0" }
+      ],
+      "correct": ["Band"]
+    },
+    {
+      "text": "In tribal societies, leadership is often achieved rather than inherited.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which type of society is typically governed by formal laws and centralized authority?",
+      "type": "multiple",
+      "options": [
+        { "text": "State", "value": "1" },
+        { "text": "Band", "value": "0" },
+        { "text": "Tribe", "value": "0" },
+        { "text": "Chiefdom", "value": "0" }
+      ],
+      "correct": ["State"]
+    },
+    {
+      "text": "Social control mechanisms can be either formal or informal.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following is an example of informal social control?",
+      "type": "multiple",
+      "options": [
+        { "text": "Gossip and public opinion", "value": "1" },
+        { "text": "Police enforcement", "value": "0" },
+        { "text": "Court trials", "value": "0" },
+        { "text": "Tax collection", "value": "0" }
+      ],
+      "correct": ["Gossip and public opinion"]
+    },
+    {
+      "text": "Chiefdoms are characterized by egalitarian leadership and no social ranking.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "Which feature distinguishes a state from other political systems?",
+      "type": "multiple",
+      "options": [
+        { "text": "A centralized government with power to enforce laws", "value": "1" },
+        { "text": "Kin-based leadership", "value": "0" },
+        { "text": "Temporary leadership roles", "value": "0" },
+        { "text": "No social hierarchy", "value": "0" }
+      ],
+      "correct": ["A centralized government with power to enforce laws"]
+    },
+    {
+      "text": "Bands rely on formal laws and police for social control.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "What is the primary function of political organization in any society?",
+      "type": "multiple",
+      "options": [
+        { "text": "Maintaining order and regulating social relations", "value": "1" },
+        { "text": "Maximizing profit", "value": "0" },
+        { "text": "Promoting religion", "value": "0" },
+        { "text": "Eliminating competition", "value": "0" }
+      ],
+      "correct": ["Maintaining order and regulating social relations"]
+    }
+  ]
+},
+{
+  "chapter": "11. Religion and Spirituality",
+  "questions": [
+    {
+      "text": "Anthropologists define religion as a system of beliefs and practices concerned with the supernatural.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following is NOT a common element of religion?",
+      "type": "multiple",
+      "options": [
+        { "text": "Ritual", "value": "0" },
+        { "text": "Supernatural beings or forces", "value": "0" },
+        { "text": "Stock trading", "value": "1" },
+        { "text": "Sacred symbols", "value": "0" }
+      ],
+      "correct": ["Stock trading"]
+    },
+    {
+      "text": "Rituals are repetitive and formal acts that express religious beliefs.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following best defines animism?",
+      "type": "multiple",
+      "options": [
+        { "text": "Belief that all things in nature have spirits or souls", "value": "1" },
+        { "text": "Worship of a single deity", "value": "0" },
+        { "text": "Belief in reincarnation", "value": "0" },
+        { "text": "Belief in ancestral spirits only", "value": "0" }
+      ],
+      "correct": ["Belief that all things in nature have spirits or souls"]
+    },
+    {
+      "text": "Shamans are religious specialists who use trance or altered states to communicate with the spirit world.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "What is the primary function of ritual according to anthropologists?",
+      "type": "multiple",
+      "options": [
+        { "text": "To express and reinforce shared values and beliefs", "value": "1" },
+        { "text": "To control trade and economy", "value": "0" },
+        { "text": "To replace legal systems", "value": "0" },
+        { "text": "To increase population", "value": "0" }
+      ],
+      "correct": ["To express and reinforce shared values and beliefs"]
+    },
+    {
+      "text": "Magic and religion are always the same concept in anthropology.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "Which type of ritual marks a transition from one stage of life to another?",
+      "type": "multiple",
+      "options": [
+        { "text": "Rite of passage", "value": "1" },
+        { "text": "Purification ritual", "value": "0" },
+        { "text": "Revitalization ritual", "value": "0" },
+        { "text": "Divination", "value": "0" }
+      ],
+      "correct": ["Rite of passage"]
+    },
+    {
+      "text": "Religion can serve both integrative and divisive roles in society.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following best defines monotheism?",
+      "type": "multiple",
+      "options": [
+        { "text": "Belief in one god", "value": "1" },
+        { "text": "Belief in many gods", "value": "0" },
+        { "text": "Belief in no gods", "value": "0" },
+        { "text": "Belief in spirits only", "value": "0" }
+      ],
+      "correct": ["Belief in one god"]
+    }
+  ]
+},
+{
+  "chapter": "12. Art and Expressive Culture",
+  "questions": [
+    {
+      "text": "Art is a form of cultural expression that conveys meaning beyond practical function.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following is NOT typically considered a form of expressive culture?",
+      "type": "multiple",
+      "options": [
+        { "text": "Music", "value": "0" },
+        { "text": "Painting", "value": "0" },
+        { "text": "Cooking a meal", "value": "1" },
+        { "text": "Dance", "value": "0" }
+      ],
+      "correct": ["Cooking a meal"]
+    },
+    {
+      "text": "Art always serves a purely aesthetic purpose.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "Which term refers to the study of the meanings and values attached to artistic expression?",
+      "type": "multiple",
+      "options": [
+        { "text": "Aesthetics", "value": "1" },
+        { "text": "Economics", "value": "0" },
+        { "text": "Ecology", "value": "0" },
+        { "text": "Kinship", "value": "0" }
+      ],
+      "correct": ["Aesthetics"]
+    },
+    {
+      "text": "All societies produce some form of art.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of these best describes performance art in anthropology?",
+      "type": "multiple",
+      "options": [
+        { "text": "Art that involves live action, music, or dance", "value": "1" },
+        { "text": "Only static visual art forms", "value": "0" },
+        { "text": "Art made exclusively for museums", "value": "0" },
+        { "text": "Sacred artifacts only", "value": "0" }
+      ],
+      "correct": ["Art that involves live action, music, or dance"]
+    },
+    {
+      "text": "Folklore includes myths, legends, and oral traditions shared within a community.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which type of art form is often used to communicate social values and moral lessons?",
+      "type": "multiple",
+      "options": [
+        { "text": "Storytelling", "value": "1" },
+        { "text": "Architecture", "value": "0" },
+        { "text": "Sculpture", "value": "0" },
+        { "text": "Pottery", "value": "0" }
+      ],
+      "correct": ["Storytelling"]
+    },
+    {
+      "text": "Art can serve both individual expression and community identity.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following is an example of applied art in anthropology?",
+      "type": "multiple",
+      "options": [
+        { "text": "Design used in everyday objects with cultural meaning", "value": "1" },
+        { "text": "Random decoration without meaning", "value": "0" },
+        { "text": "Purely commercial advertising", "value": "0" },
+        { "text": "Scientific diagrams", "value": "0" }
+      ],
+      "correct": ["Design used in everyday objects with cultural meaning"]
+    }
+  ]
+},
+{
+  "chapter": "13. Art and Expressive Culture",
+  "questions": [
+    {
+      "text": "Art is a form of cultural expression that conveys meaning beyond practical function.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following is NOT typically considered a form of expressive culture?",
+      "type": "multiple",
+      "options": [
+        { "text": "Music", "value": "0" },
+        { "text": "Painting", "value": "0" },
+        { "text": "Cooking a meal", "value": "1" },
+        { "text": "Dance", "value": "0" }
+      ],
+      "correct": ["Cooking a meal"]
+    },
+    {
+      "text": "Art always serves a purely aesthetic purpose.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "Which term refers to the study of the meanings and values attached to artistic expression?",
+      "type": "multiple",
+      "options": [
+        { "text": "Aesthetics", "value": "1" },
+        { "text": "Economics", "value": "0" },
+        { "text": "Ecology", "value": "0" },
+        { "text": "Kinship", "value": "0" }
+      ],
+      "correct": ["Aesthetics"]
+    },
+    {
+      "text": "All societies produce some form of art.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of these best describes performance art in anthropology?",
+      "type": "multiple",
+      "options": [
+        { "text": "Art that involves live action, music, or dance", "value": "1" },
+        { "text": "Only static visual art forms", "value": "0" },
+        { "text": "Art made exclusively for museums", "value": "0" },
+        { "text": "Sacred artifacts only", "value": "0" }
+      ],
+      "correct": ["Art that involves live action, music, or dance"]
+    },
+    {
+      "text": "Folklore includes myths, legends, and oral traditions shared within a community.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which type of art form is often used to communicate social values and moral lessons?",
+      "type": "multiple",
+      "options": [
+        { "text": "Storytelling", "value": "1" },
+        { "text": "Architecture", "value": "0" },
+        { "text": "Sculpture", "value": "0" },
+        { "text": "Pottery", "value": "0" }
+      ],
+      "correct": ["Storytelling"]
+    },
+    {
+      "text": "Art can serve both individual expression and community identity.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following is an example of applied art in anthropology?",
+      "type": "multiple",
+      "options": [
+        { "text": "Design used in everyday objects with cultural meaning", "value": "1" },
+        { "text": "Random decoration without meaning", "value": "0" },
+        { "text": "Purely commercial advertising", "value": "0" },
+        { "text": "Scientific diagrams", "value": "0" }
+      ],
+      "correct": ["Design used in everyday objects with cultural meaning"]
+    }
+  ]
+},
+{
+  "chapter": "14. Applied Anthropology",
+  "questions": [
+    {
+      "text": "Applied anthropology uses anthropological knowledge to solve real-world problems.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following is NOT a typical area of applied anthropology?",
+      "type": "multiple",
+      "options": [
+        { "text": "Public health", "value": "0" },
+        { "text": "Urban planning", "value": "0" },
+        { "text": "Astrophysics", "value": "1" },
+        { "text": "Education", "value": "0" }
+      ],
+      "correct": ["Astrophysics"]
+    },
+    {
+      "text": "Development anthropology focuses on improving the well-being of people through sustainable programs.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which of the following best describes medical anthropology?",
+      "type": "multiple",
+      "options": [
+        { "text": "The study of health, illness, and healthcare in cultural context", "value": "1" },
+        { "text": "The study of animal anatomy", "value": "0" },
+        { "text": "The study of ritual magic", "value": "0" },
+        { "text": "The study of economic inequality", "value": "0" }
+      ],
+      "correct": ["The study of health, illness, and healthcare in cultural context"]
+    },
+    {
+      "text": "Applied anthropologists work only in academic research settings.",
+      "type": "truefalse",
+      "answer": "false"
+    },
+    {
+      "text": "Which field applies anthropological methods to improve education systems?",
+      "type": "multiple",
+      "options": [
+        { "text": "Educational anthropology", "value": "1" },
+        { "text": "Cultural resource management", "value": "0" },
+        { "text": "Economic anthropology", "value": "0" },
+        { "text": "Forensic anthropology", "value": "0" }
+      ],
+      "correct": ["Educational anthropology"]
+    },
+    {
+      "text": "Forensic anthropologists assist in identifying human remains for legal purposes.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Which branch of applied anthropology deals with preserving archaeological sites?",
+      "type": "multiple",
+      "options": [
+        { "text": "Cultural resource management", "value": "1" },
+        { "text": "Medical anthropology", "value": "0" },
+        { "text": "Urban anthropology", "value": "0" },
+        { "text": "Political anthropology", "value": "0" }
+      ],
+      "correct": ["Cultural resource management"]
+    },
+    {
+      "text": "Corporate anthropology involves studying consumer behavior and organizational culture.",
+      "type": "truefalse",
+      "answer": "true"
+    },
+    {
+      "text": "Applied anthropology bridges theory and practice by addressing human problems directly.",
+      "type": "truefalse",
+      "answer": "true"
+    }
+  ]
+}
+
+]
